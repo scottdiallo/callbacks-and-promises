@@ -1,0 +1,16 @@
+{
+  "name": "callbacks-and-promises",
+  "version": "0.0.1",
+  "description": "A sample project on sync and async programming.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dengeist/callbacks-and-promises"
+ },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
